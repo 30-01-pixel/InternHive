@@ -52,15 +52,14 @@ const AuthPage = () => {
                   InternHive
                 </span>
               </div>
-              <h1 className="text-4xl lg:text-5xl font-bold text-gray-900 mb-4">
+              <h1 className="text-4xl lg:text-5xl font-bold text-gray-900 mb-4 leading-tight">
                 Connect with Your
-                <span className="bg-gradient-to-r from-blue-600 to-indigo-600 bg-clip-text text-transparent block">
+                <span className="bg-gradient-to-r from-blue-600 to-indigo-600 bg-clip-text text-transparent block leading-tight pb-1">
                   Dream Internship
                 </span>
               </h1>
               <p className="text-xl text-gray-600 leading-relaxed">
-                Join thousands of students and professionals discovering amazing internship opportunities. 
-                Your career journey starts here.
+              Welcome to InternHive – your one-stop hive for hackathons, internships, and tech opportunities buzzing with potential! 🐝
               </p>
             </div>
 
